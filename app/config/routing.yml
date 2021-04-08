@@ -1,0 +1,8 @@
+parc:
+    resource: "@ParcBundle/Controller/"
+    type:     annotation
+    prefix:   /Parc
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
